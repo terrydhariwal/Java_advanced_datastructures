@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_java7_features/01_java7_features.iml" filepath="$PROJECT_DIR$/01_java7_features/01_java7_features.iml" />
+      <module fileurl="file://$USER_HOME$/IdeaProjects/Java_advanced_datastructures/02_MemberClasses/01_java7_features/01_java7_features1.iml" filepath="$USER_HOME$/IdeaProjects/Java_advanced_datastructures/02_MemberClasses/01_java7_features/01_java7_features1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_simplified_code/01_simplified_code.iml" filepath="$PROJECT_DIR$/01_simplified_code/01_simplified_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_java7_hiding_classes/02_java7_hiding_classes.iml" filepath="$PROJECT_DIR$/02_java7_hiding_classes/02_java7_hiding_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_reflection/03_reflection.iml" filepath="$PROJECT_DIR$/03_reflection/03_reflection.iml" />
+    </modules>
+  </component>
+</project>
